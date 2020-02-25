@@ -10,7 +10,10 @@
 </head>
 <body>
 	<div class="student-list">
-		<h1 class="main-heading">STUDENT LIST</h1>
+		<button class="button"
+			onclick="window.location.href='views/add-student.jsp'">Add
+			Student</button>
+		<h3 class="main-heading">STUDENT LIST</h3>
 		<div class="table-box">
 			<div class="table-row table-head">
 				<div class="table-cell">
